@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="center">👋 Hi, I'm L1m1tlesAyman, Full Stack Developer building immersive frontends and robust backends (Laravel API).</h3>
+<h3 data-importer="text" align="center">👋 Hi, I'm 1nf1n1ty_Ikh, Full Stack Developer building immersive frontends and robust backends (Laravel API).</h3>
 
 ###
 
