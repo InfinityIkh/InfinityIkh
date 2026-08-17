@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/95/33/74/95337436756f9461b1649cfb611408ad.jpg"
+    src="https://i.pinimg.com/1200x/4b/22/0d/4b220dc311e02bca3161ec208d876b80.jpg"
     height="180"
     alt="Profile banner"
   />
