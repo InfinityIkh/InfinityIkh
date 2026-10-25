@@ -19,10 +19,12 @@
   I'm a Full Stack Developer who loves turning ideas into scalable applications,
   immersive user interfaces, and reliable backend systems.
 </p>
+
 <p align="center">
-  I work across the entire stack, from responsive <b>React</b> interfaces to
-  <b>Laravel</b> APIs, databases, caching, queues, and real-time features.
+  I build full-stack applications using <b>React</b>, <b>Next.js</b>, creating responsive interfaces and robust backends
+  with <b>Laravel</b>, APIs, databases, caching, queues, and real-time features.
 </p>
+
 
 ---
 
