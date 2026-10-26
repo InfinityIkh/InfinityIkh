@@ -20,10 +20,14 @@
   immersive user interfaces, and reliable backend systems.
 </p>
 
+
 <p align="center">
-  I build full-stack applications using <b>React</b>, <b>Next.js</b>, creating responsive interfaces and robust backends
-  with <b>Laravel</b>, APIs, databases, caching, queues, and real-time features.
+  I build full-stack applications using <b>React</b>, <b>Next.js</b>, and
+  <b>TypeScript</b>, creating responsive interfaces and robust backends
+  with <b>Laravel</b>, <b>Go (Golang)</b>, APIs, databases, caching, queues,
+  and real-time features.
 </p>
+
 
 
 ---
