@@ -64,8 +64,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfinityIkh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityIkh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InfinityIkh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityIkh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=InfinityIkh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
