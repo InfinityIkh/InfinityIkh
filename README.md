@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm 1nf1n1ty_Ikh</h1>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Building+immersive+frontends;Building+robust+backends;Learning+Next.js+%26+TypeScript+right+now+🚀" alt="Typing animation" />
-</p>
+
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/4b/22/0d/4b220dc311e02bca3161ec208d876b80.jpg"
